@@ -62,9 +62,3 @@ git clone <repo-url>
 * This repo focuses on the data cleaning and spatial data preparation phase.
 * Interactive maps and frontend visualization are part of a separate project.
 * Data source licensing depends on the original provider.
-
----
-
-## 📜 License
-
-[MIT License](LICENSE)
