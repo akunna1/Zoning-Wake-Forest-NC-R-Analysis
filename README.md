@@ -27,10 +27,6 @@ This repository contains R scripts and zoning shapefile data used to clean and p
   * `Wake_Forest_Zoning.shx`
   * `Wake_Forest_Zoning.dbf`
   * `Wake_Forest_Zoning.cpg`
-* Other files:
-
-  * `README.md` (this file)
-  * Possibly duplicates or upload notes (`akunna1`)
 
 ---
 
